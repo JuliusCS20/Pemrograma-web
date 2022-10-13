@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <main>
+        <h1>PERKENALAN DIRI</h1>
+        <img src="/gambarku.jpeg" alt="INI AKU JULIUS">
+        <p>Assalammualaikum wr wb, Shaloom, om swastiastu, salam kebudayaan nama saya Julius, saya ganteng dan tamvan, saya pandai
+            bermain musik semuanya kecuali alat tiup jangan suruh saya 
+            adu aja dek. SEKIAN TERIMA GAJI
+        </p>
+    </main>
+</body>
+</html>
